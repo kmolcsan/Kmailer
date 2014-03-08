@@ -1,0 +1,11 @@
+smtp.comcast.net:587
+ken@kaelus.com
+kennymolc@gmail.com
+There was an error encounteredreading the parameters:
+
+java.lang.NullPointerException
+
+The expected command format isthe following:
+>java Main [host] [from] [to]
+
+Please Try again!
